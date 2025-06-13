@@ -1,43 +1,41 @@
-<div align="center">
-<p><img src="https://acegif.com/wp-content/gif/outerspace-51.gif" alt="GIF" width="400" height="230"></p><p><a href="https://github.com/Jospi04"><img><p><a href="https://github.com/Jospi04"><img title="RAMDON" src="https://img.shields.io/badge/Autor-@JOSEPH-blue?style=for-the-badge&logo=github" alt="Autor"></a></p>
-# ¡Hola! Soy Magenta Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨
+
+# ¡Hola! Soy Joseph <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDduc3l2NjEzcWp5OGc5OXllMTg2aHhxdThoMGJva293dHpqNTNsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v0dGnTDFgEr68myH0C/giphy.gif" width="52"> <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdyampid21kbzNuZmhodjZsbTBheWJ0ejh4ZnM5YXk2bWM3dDB4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDMFEqsctMllI14x0k/giphy.gif" width="52">
 
 
 
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+ <img src="https://github.com/Jospi04/Jospi04/blob/main/holia.png" />
 
 </div>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Desarrolladora+Frontend+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Desarrollador+Frontend+%F0%9F%92%BB;Si+lo+puedes+imaginar+%E2%9C%A8;+lo+puedes+programar+%F0%9F%9A%80" />
 </div>
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre Mí
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre Mí
 
 ```javascript
-const magenta = {
-  nombre: "Magenta Paredes",
+const Joseph = {
+  nombre: "Joseph Ricopa",
   rol: "Frontend Developer",
-  experiencia: "3+ años en desarrollo web",
   pasion: "Crear soluciones web innovadoras",
-  proyectos_completados: "10+ negocios atendidos",
-  mascota_favorita: "🐱 Gatos",
+  mascota_favorita: "🐶 Perros",
   estado_actual: "Siempre aprendiendo y creciendo"
 };
 
 ```
-**Mi Historia:** Desde una edad temprana, descubrí mi apasionada vocación por la programación, convirtiendo mi pasión en mi profesión. Como desarrolladora web, he acumulado más de 1 año de experiencia en la industria tecnológica, desafiándome constantemente y buscando oportunidades para crecer.
+
 
 **Mi Objetivo:** Crear soluciones web innovadoras y funcionales que marquen la diferencia en la experiencia del usuario. He tenido el privilegio de trabajar con más de 10 negocios, brindándoles soluciones personalizadas que han impulsado su crecimiento.
 <div align="center">
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=Meowwuw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB" />
 </div>
 
 ## 🛠️ Stack Tecnológico
 <div align="center">
+ 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,15 +47,17 @@ const magenta = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 </div>
+
 ## Estadísticas de GitHub
-
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=EC4899&currStreakLabel=6366F1" />
+ 
+ 
 </div>
 <div align="center">
+ 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
+ 
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -73,13 +73,16 @@ const magenta = {
 | 🎮 **MASTERRIMAS** | React, Firebase | Aplicación de juegos de rap |
 | 🐰 **TERREA** | HTML5, CSS3, JavaScript | E-commerce de productos artesanales |
 </div>
-## 🐱 Fun Fact
-**¡Me encantan los gatos!** 🐱 Creo que programar y los gatos tienen mucho en común: ambos requieren paciencia, curiosidad y la capacidad de encontrar soluciones creativas a problemas complejos.
+
+## 🐶 Fun Fact
+**¡Me encantan los perros!** 🐶 Creo que programar y los perros tienen mucho en común: ambos requieren paciencia, curiosidad y la capacidad de encontrar soluciones creativas a problemas complejos.
 
 <div align="center">
  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 </div>
+
 ## ¡Conectemos!
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
@@ -88,7 +91,7 @@ const magenta = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USERNAME)
 
 </div>
----
+
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=100&section=footer" />

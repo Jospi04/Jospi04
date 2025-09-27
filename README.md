@@ -28,7 +28,7 @@ const Joseph = {
 **Mi Objetivo:** Crear soluciones web innovadoras y funcionales que marquen la diferencia en la experiencia del usuario. He tenido el privilegio de trabajar con más de 10 negocios, brindándoles soluciones personalizadas que han impulsado su crecimiento.
 <div align="center">
  
- <img src="https://github-readme-stats.vercel.app/api?username=Meowwuw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Jospi04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB" />
 </div>
 
 ## 🛠️ Stack Tecnológico

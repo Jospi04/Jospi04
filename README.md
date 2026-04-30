@@ -1,111 +1,129 @@
-<!-- Header Section -->
+<!-- Header Image/GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4338CA&height=200&section=header&text=Joseph%20Ricopa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5B4FC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Python+%26+Node.js;Construyendo+experiencias+web+modernas;Transformando+ideas+en+c%C3%B3digo+eficiente" alt="Typing SVG" />
-  </a>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding Header GIF" width="100%" style="border-radius: 15px;"/>
+  <br><br>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=👋+Hola,+soy+Joseph+Ricopa;⚡+Full-Stack+Developer;🌐+Python+%7C+Flask+%7C+Node.js" alt="Typing Text" />
+  </h1>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="120" />
+  <i>«Transformando café y lógica en experiencias digitales inmersivas.»</i>
 </div>
 
-<!-- About Me Section -->
-<h2 align="center">✦ Sobre Mí ✦</h2>
+<br>
 
 <div align="center">
-  <p align="center">
-    <strong>Desarrollador Full-Stack</strong> apasionado por la creación de soluciones escalables, innovadoras y con un diseño impecable. <br>
-    He colaborado con múltiples negocios para transformar sus necesidades en plataformas robustas y optimizadas.
-  </p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="40" />
 </div>
 
-```json
-{
-  "name": "Joseph Ricopa",
-  "role": "Full-Stack Developer",
-  "focus": ["Backend Development", "Frontend Architecture", "API Design"],
-  "mission": "Deliver high-quality, impactful software solutions.",
-  "technologies": ["Python", "Flask", "Node.js", "JavaScript", "HTML", "CSS"]
-}
+<br>
+<hr style="border: 1px solid #111;"/>
+<br>
+
+<!-- About Section with split view -->
+<div align="center">
+
+## 🌌 Un poco sobre mí
+
+Soy un desarrollador altamente motivado que disfruta construir la arquitectura del mañana. Me especializo tanto en el diseño de **interfaces de usuario (UI)** modernas como en la creación de **sistemas backend** escalables y robustos.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Joseph Ricopa"
+        self.role = "Full-Stack Engineer"
+        self.code_style = "Clean, modular, & scalable"
+        
+    def current_focus(self):
+        return ["Construir APIs RESTful", "Optimizar el Frontend", "Aprender algo nuevo"]
+
+me = Developer()
 ```
 
-<!-- Tech Stack -->
-<h2 align="center">✦ Stack Tecnológico ✦</h2>
-
-<div align="center">
-
-  ### Backend & Server
-  ![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB&border=141414)
-  ![Flask](https://img.shields.io/badge/Flask-141414?style=for-the-badge&logo=flask&logoColor=white&border=141414)
-  ![Node.js](https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=node.js&logoColor=339933&border=141414)
-
-  ### Frontend & UI
-  ![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=F7DF1E&border=141414)
-  ![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E34F26&border=141414)
-  ![CSS3](https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css3&logoColor=1572B6&border=141414)
-
 </div>
 
 <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br>
 
-<!-- Github Stats -->
-<h2 align="center">✦ GitHub Analytics ✦</h2>
+<!-- Tech Stack -->
+<h2 align="center">⚡ Arsenal Tecnológico</h2>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table>
     <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jospi04&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=9CA3AF" alt="GitHub Stats" />
+      <td align="center" width="50%"><b>Backend & Core</b></td>
+      <td align="center" width="50%"><b>Frontend & Diseño</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <br>
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&border=00FF9D" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&border=00FF9D" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&border=00FF9D" />
+        <br><br>
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jospi04&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=9CA3AF" alt="Top Languages" />
+      <td align="center">
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&border=00FF9D" />
+        <br><br>
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&border=00FF9D" />
+        <br><br>
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&border=00FF9D" />
+        <br><br>
       </td>
     </tr>
   </table>
 </div>
 
 <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br>
 
-<!-- Projects -->
-<h2 align="center">✦ Proyectos Destacados ✦</h2>
+<!-- Stats Section -->
+<h2 align="center">📊 Estadísticas de Desarrollo</h2>
 
 <div align="center">
-
-| Proyecto | Tecnologías | Descripción |
-| :--- | :--- | :--- |
-| 🚀 **Sistema de Gestión** | `Python`, `Flask` | API RESTful y panel administrativo para optimización de procesos |
-| 🛒 **E-Commerce Platform** | `Node.js`, `JS` | Tienda virtual con pasarela de pagos integrada |
-| 📊 **Dashboard Analytics** | `HTML5`, `CSS3`, `JS` | Panel de control interactivo con gráficos en tiempo real |
-| 🤖 **Bot Asistente** | `Node.js` | Bot automatizado para atención al cliente y gestión de tareas |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jospi04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jospi04&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jospi04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 <br>
 
 <!-- Connect -->
-<h2 align="center">✦ ¡Conectemos! ✦</h2>
+<h2 align="center">🌐 Conectemos</h2>
 
 <div align="center">
-  <p>¿Tienes algún proyecto en mente o quieres colaborar? ¡Hablemos!</p>
+  <p>Siempre estoy abierto a discutir sobre nuevos proyectos, ideas creativas u oportunidades de colaboración.</p>
   
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://tu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=code-igniter&logoColor=EF4444" alt="Portfolio" />
-  </a>
+  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&border=00FF9D" /></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&border=00FF9D" /></a>
+  <a href="https://github.com/Jospi04"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&border=00FF9D" /></a>
 </div>
 
 <br>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4338CA&height=100&section=footer" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=©+2026+Joseph+Ricopa;Construido+con+❤️+y+mucho+código" alt="Footer" />
 </div>

@@ -93,13 +93,13 @@ me = Developer()
 <h2 align="center">📊 Estadísticas de Desarrollo</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jospi04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jospi04&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jospi04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=A3A3A3&icon_color=00FF9D" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jospi04&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&currStreakLabel=A3A3A3&sideNums=FFFFFF&sideLabels=A3A3A3&dates=A3A3A3" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jospi04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jospi04&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=A3A3A3" alt="Top Languages" />
 </div>
 
 <br>

@@ -17,21 +17,21 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="40" />
+  <span style="font-size:30px">👽 💻 ⚡</span>
 </div>
 
 <br>
-<hr style="border: 1px solid #111;"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 <br>
 
-<!-- About Section with split view -->
-<div align="center">
+<!-- About Section -->
+<h2 align="center">🌌 Un poco sobre mí</h2>
 
-## 🌌 Un poco sobre mí
-
-Soy un desarrollador altamente motivado que disfruta construir la arquitectura del mañana. Me especializo tanto en el diseño de **interfaces de usuario (UI)** modernas como en la creación de **sistemas backend** escalables y robustos.
+<p align="center">
+  Soy un desarrollador altamente motivado que disfruta construir la arquitectura del mañana. Me especializo tanto en el diseño de <b>interfaces de usuario (UI)</b> modernas como en la creación de <b>sistemas backend</b> escalables y robustos.
+</p>
 
 ```python
 class Developer:
@@ -45,8 +45,6 @@ class Developer:
 
 me = Developer()
 ```
-
-</div>
 
 <br>
 <div align="center">
@@ -66,20 +64,20 @@ me = Developer()
     <tr>
       <td align="center">
         <br>
-        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&border=00FF9D" />
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
         <br><br>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&border=00FF9D" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
         <br><br>
-        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&border=00FF9D" />
+        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
         <br><br>
       </td>
       <td align="center">
         <br>
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&border=00FF9D" />
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <br><br>
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&border=00FF9D" />
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
         <br><br>
-        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&border=00FF9D" />
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
         <br><br>
       </td>
     </tr>
@@ -117,9 +115,9 @@ me = Developer()
 <div align="center">
   <p>Siempre estoy abierto a discutir sobre nuevos proyectos, ideas creativas u oportunidades de colaboración.</p>
   
-  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&border=00FF9D" /></a>
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&border=00FF9D" /></a>
-  <a href="https://github.com/Jospi04"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&border=00FF9D" /></a>
+  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://github.com/Jospi04"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
